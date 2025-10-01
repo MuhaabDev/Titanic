@@ -21,7 +21,7 @@ And here I am—joining the 1.4 million+ entrants, hoping to learn, improve, and
 | Version | Train Accuracy | Test Accuracy | Rank   |
 | ------- | -------------- | ------------- | ------ |
 | V4      | 78%            | 74%           | 10,395 |
-| Latest  | 84%            | 78%           | 8,862  |
+| V7      | 84%            | 78%           | 8,862  |
 
 💡 Each new version I’ll keep refining features, tuning models, and pushing updates here.
 
